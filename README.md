@@ -8,10 +8,9 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 #### Data Modeling
 
 Created and built the Entity Relationship Diagram (ERD) based on the provide csv files. The provided  database graphical representation of the the main tables departments and employees table relates to the rest of tables. 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
+ 
+![ERD_database_diagram.PNG](ERD_database_diagram.PNG)
+ 
 #### Data Engineering
 
 * Created the table schema for each of the six CSV files and specified data types, primary keys, foreign keys, and other constraints.
