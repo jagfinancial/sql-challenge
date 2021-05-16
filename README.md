@@ -9,6 +9,9 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 Created and built the Entity Relationship Diagram (ERD) based on the provide csv files. The provided  database graphical representation of the the main tables departments and employees table relates to the rest of tables. 
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 #### Data Engineering
 
 * Created the table schema for each of the six CSV files and specified data types, primary keys, foreign keys, and other constraints.
@@ -17,6 +20,7 @@ Created and built the Entity Relationship Diagram (ERD) based on the provide csv
 * Imported the six CSV files into the corresponding SQL tables.  
 
 #### Data Analysis
+
 * Listed the following details of each employee: employee number, last name, first name, sex, and salary.
 * Listed first name, last name, and hire date for employees who were hired in 1986.
 * Listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
@@ -26,8 +30,6 @@ Created and built the Entity Relationship Diagram (ERD) based on the provide csv
 * Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 * Listed in descending order, list the frequency count of employee last names, i.e., how many employees share each last name
 
-
-Once you have a complete database, do the following:
 
 ## Bonus (Optional)
 
