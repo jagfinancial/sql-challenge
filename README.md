@@ -34,6 +34,10 @@ Created and built the Entity Relationship Diagram (ERD) based on the provide csv
 
 Jupyter Notebook of the bonus analysis.
 
+![common_salary.PNG](common_salary.PNG)
+
+![average_salary.PNG](average_salary.PNG)
+
 ## Output
 
 * Create an image file of your ERD.
