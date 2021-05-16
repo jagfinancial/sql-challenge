@@ -17,7 +17,7 @@ CREATE TABLE departments (
 );
 
 -- Check data import
-select * from departments
+select * from departments;
 
 
 -- Create table employees
@@ -35,7 +35,7 @@ CREATE TABLE employees (
 );
 
 -- Check data import
-select * from employees
+select * from employees;
 
 
 --Create table dept_emp
@@ -52,7 +52,7 @@ CREATE TABLE dept_emp (
 );
 
 -- Check data import
-select * from dept_emp
+select * from dept_emp;
 
 
 -- Create table dept_managers
@@ -69,7 +69,7 @@ CREATE TABLE dept_managers (
 );
 
 -- Check data import
-select * from dept_managers
+select * from dept_managers;
 
 
 
@@ -86,7 +86,7 @@ CREATE TABLE salaries (
 );
 
 -- Check data import
-select * from salaries
+select * from salaries;
 
 
 --Creating titles table
@@ -102,4 +102,4 @@ CREATE TABLE titles (
 );
 
 -- Check data import
-select * from titles
+select * from titles;
